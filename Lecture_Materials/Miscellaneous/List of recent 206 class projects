@@ -1,0 +1,117 @@
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<caption>
+		Recent MGB/P//T 206 projects</caption>
+	<thead>
+		<tr>
+			<th scope="col">
+				Quarter</th>
+			<th scope="col">
+				Project</th>
+			<th scope="col">
+				Techniques</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				Pro Forma NPV Analysis: Kearl Oil Sands Project</td>
+			<td>
+				MCS, DA</td>
+		</tr>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				Present Value Benefit of Owning vs. Renting</td>
+			<td>
+				MCS</td>
+		</tr>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				The Cultured &amp; The Cured: Scheduling staff at yogurt store</td>
+			<td>
+				MIP, MSC</td>
+		</tr>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				Student-Centered Course Offering Decision Making Tool</td>
+			<td>
+				MIP</td>
+		</tr>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				Inventory Management for Owens-Illinois</td>
+			<td>
+				MCS</td>
+		</tr>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				Product Management Decision: Optimizing business decisions in a virtual market</td>
+			<td>
+				MIP</td>
+		</tr>
+		<tr>
+			<td>
+				2014 Sp</td>
+			<td>
+				Financial Portfolio Asset Allocation</td>
+			<td>
+				QP</td>
+		</tr>
+		<tr>
+			<td>
+				2013 Su</td>
+			<td>
+				Optimal Scheduling at Holy Rosary School &nbsp; &nbsp;</td>
+			<td>
+				MIP</td>
+		</tr>
+		<tr>
+			<td>
+				2013 Su</td>
+			<td>
+				Cannister Connection: Inventory Optimization at Chemicals Company</td>
+			<td>
+				MCS</td>
+		</tr>
+		<tr>
+			<td>
+				2013 Su</td>
+			<td>
+				Using simulation to better predict revenue at biotech company</td>
+			<td>
+				MCS</td>
+		</tr>
+		<tr>
+			<td>
+				2013 Su</td>
+			<td>
+				Mitigating FX Risk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td>
+				MCS</td>
+		</tr>
+		<tr>
+			<td>
+				2013 Su</td>
+			<td>
+				PV Project Valuation</td>
+			<td>
+				MCS</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<span style="background-color:#ffd700;">MCS = Monte Carlo Simulation</span><br />
+	<span style="background-color:#ffd700;">DA = Decision Analysis</span><br />
+	<span style="background-color:#ffd700;">MIP = Integer Programming</span><br />
+	<span style="background-color:#ffd700;">QP = Quadratic Programming</span></p>
